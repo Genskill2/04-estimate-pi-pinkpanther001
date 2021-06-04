@@ -23,6 +23,7 @@ int main(void) {
     }
   }
 }
+
 float wallis_pi(int n)
  {
     float s=1.0;
